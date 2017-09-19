@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Picker</string>
+    <string name="text_tittle">Quản Lý Công Việc Hàng Tuần</string>
+    <string name="text_cong_viec">Công Việc</string>
+    <string name="text_ngay">Ngày HT</string>
+    <string name="text_gio">Giờ HT</string>
+    <string name="text_set_hour">Đặt Giờ</string>
+    <string name="text_set_date">Đặt Ngày</string>
+    <string name="text_save">Lưu Công Việc</string>
+</resources>
